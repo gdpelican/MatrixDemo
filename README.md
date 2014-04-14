@@ -10,19 +10,20 @@ or to check if it is a null matrix (all 0's) or unit matrix (all 1's)
 updated to different values for testing.)
 
 The default values (and the ones baked into the .jar file in /bin) are:
-Amplifier: 2
-Matrix X:
-        --     --
-				|1, 2, 3|
-				|2, 3, 4|
-				|3, 4, 5|
-        --     --
-Matrix Y:
-        --     --
-				|2, 2, 2|
-				|1, 3, 1|
-				|1, 2, 3|
-        --     --
 
-The formula run on these variables:
- (2 * X) + Y
+_Amplifier:_ 
+2
+
+_Matrix X:_
+-	 |1, 2, 3|
+-	 |2, 3, 4|
+-	 |3, 4, 5|
+
+_Matrix Y:_
+-	|2, 2, 2|
+-	|1, 3, 1|
+-	|1, 2, 3|
+
+_The formula run on these variables:_
+
+(2 * X) + Y
