@@ -26,4 +26,4 @@ _Matrix Y:_
 
 _The formula run on these variables:_
 
-(2 * X) + Y
+(A * X) + Y
